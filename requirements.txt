@@ -2,5 +2,12 @@ Flask==0.10.1
 Jinja2==2.8
 MarkupSafe==0.23
 Werkzeug==0.11.2
+argparse==1.4.0
 gunicorn==19.4.1
 itsdangerous==0.24
+pbr==1.8.1
+six==1.10.0
+stevedore==1.9.0
+virtualenv==13.1.2
+virtualenv-clone==0.2.6
+virtualenvwrapper==4.7.1
